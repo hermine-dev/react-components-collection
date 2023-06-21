@@ -36,6 +36,6 @@ const InfiniteScroll = ({ fetchData }) => {
       {/* Render data */}
     </div>
   );
-}
+};
 
 export default InfiniteScroll;
